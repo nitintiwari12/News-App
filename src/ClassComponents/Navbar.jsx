@@ -38,6 +38,9 @@ export default class Navbar extends Component {
                     <li><Link className="dropdown-item" to="/Covid-19">Covid-19</Link></li>
                     <li><Link className="dropdown-item" to="/World">World</Link></li>
                     <li><Link className="dropdown-item" to="/Jokes">Jokes</Link></li>
+                    <li><Link className="dropdown-item" to="/Science">Science</Link></li>
+                    <li><Link className="dropdown-item" to="/Literature">Literature</Link></li>
+
                   </ul>
                 </li>
                 <li className="nav-item dropdown">
